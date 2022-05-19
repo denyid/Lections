@@ -25,4 +25,4 @@ Program4_3:
 	gcc 'Lec4/Program4_3.c' -o 'Lec4/Program4_3.out'
 
 clear:
-	rm -rf lec?/program*/*.out
+	rm -rf Lec?/program*/*.out
